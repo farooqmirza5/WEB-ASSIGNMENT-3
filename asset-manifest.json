@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WEB_ASSIGNMENT_3/static/css/main.3c20edd4.css",
+    "main.js": "/WEB_ASSIGNMENT_3/static/js/main.a40c04fa.js",
+    "static/js/787.1ed0c42c.chunk.js": "/WEB_ASSIGNMENT_3/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Mirza Resume.pdf": "/WEB_ASSIGNMENT_3/static/media/Mirza Resume.d6769a1f23d3b713371e.pdf",
+    "index.html": "/WEB_ASSIGNMENT_3/index.html",
+    "main.3c20edd4.css.map": "/WEB_ASSIGNMENT_3/static/css/main.3c20edd4.css.map",
+    "main.a40c04fa.js.map": "/WEB_ASSIGNMENT_3/static/js/main.a40c04fa.js.map",
+    "787.1ed0c42c.chunk.js.map": "/WEB_ASSIGNMENT_3/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c20edd4.css",
+    "static/js/main.a40c04fa.js"
+  ]
+}
