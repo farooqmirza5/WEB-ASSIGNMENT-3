@@ -1,0 +1,23 @@
+
+  .container > form {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    max-width: 500px;
+    margin: auto;
+    width: 70%;
+    border: 1px solid #1ec7b0;
+    padding: 20px;
+    border-radius: 5px;
+    background: rgb(133, 129, 129);
+  }
+ 
+  p {
+    color: rgb(5, 5, 5);
+  }
+  button {
+    background: #c4baba !important;
+  }
+  
